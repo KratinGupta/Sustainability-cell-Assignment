@@ -1,0 +1,6 @@
+I suggest using Headless CMS(eg strapi) as it provides easy to use methods to edit content(e.g., event details, team changes) via forms. The CMS is also preferable as it feeds the site content through an API, thus the site shows changes immediately without even opening the code. It supports text, images and other forms of structured data.
+How it works?
+The non tech members will enter content on CMS panel which is user friendly.
+The CMS will structure the content and through a code already written by the tech members these changes will reflect on the website through an API.
+
+This method is also preferable as any changes made in design and frontend of the website doesn't require changes in the CMS.
